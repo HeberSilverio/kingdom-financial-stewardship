@@ -1,5 +1,5 @@
 [Vídeo no youtube: Sistema de Finanças Pessoais em React com Typescript](https://youtu.be/_hytKpMc04E)
-7:50min
+30:46min
 
 # kingdom-financial-stewardship
 
